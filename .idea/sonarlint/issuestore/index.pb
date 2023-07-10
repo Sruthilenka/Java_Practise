@@ -1,20 +1,14 @@
 
 S
 #src/main/java/org/example/Main.java,0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
-c
-3src/main/java/org/example/ArraysImplementation.java,5/d/5db901692bd1896abe585087dd5bca2975c1d512
 U
 %src/main/java/org/example/Cating.java,d/a/da044352ed827efac6c746d777112e90767e338a
-c
-3src/main/java/org/example/ComparisionOperators.java,0/1/015da8da80229c2da77156400d5d8ce270ebde1a
 Z
 *src/main/java/org/example/IfStatement.java,2/8/287e9cce48018cea317e86817e572ecd265e7837
 X
 (src/main/java/org/example/Increment.java,c/d/cd3399c1ddff4e04abd9ebd1ea0b1d3c1fc30342
 _
 /src/main/java/org/example/LogicalOperators.java,f/e/fea892b9e09b223160550e46d1e14f84563b1dad
-a
-1src/main/java/org/example/MortgageCalculator.java,4/3/43e19ad04d66c98236369bafbff67a309faa53aa
 \
 ,src/main/java/org/example/ParamsAndArgs.java,0/1/01247b5138cc055fab2aaec3ec3c9a30de146065
 7
