@@ -1,0 +1,20 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…®ÁÏùÿÿÿÿ8‡«Èò“1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Öì–Ïúÿÿÿÿ8˜Éò“1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£½ºåşÿÿÿÿ8ÔÖËò“1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ø´é78ë‰Íò“1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£½ºåşÿÿÿÿ8ë‰Íò“1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·Î²é8åÀÑò“1
+Z
+java:S1854"8Remove this useless assignment to local variable "obj2".(´ëêùÿÿÿÿ8ÿ›Şò“1
+Z
+java:S1854"8Remove this useless assignment to local variable "obj1".(„ÿ¾ìûÿÿÿÿ8¼ÕØò“1
+Y
+java:S1854"7Remove this useless assignment to local variable "obj".(íœğŸøÿÿÿÿ8şİò“1
+J
+java:S1481"(Remove this unused "obj" local variable.(íœğŸøÿÿÿÿ8½ÕØò“1
+K
+java:S1481")Remove this unused "obj1" local variable.(„ÿ¾ìûÿÿÿÿ8Œ°İò“1
+K
+java:S1481")Remove this unused "obj2" local variable.(´ëêùÿÿÿÿ8€œŞò“1

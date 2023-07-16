@@ -1,0 +1,28 @@
+
+m
+java:S1192	"PDefine a constant instead of duplicating this literal "***************" 5 times.(ˆèÑÑ8ñÀİô“1
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ˆèÑÑ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(¼Ïôéüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôÌ¿ò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆèÑÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ§¬®ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôÌ¿ò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆèÑÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ãÿèşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰Õâ´
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ò„éÖ
+Q
+java:S1117"6Rename "age" which hides the field declared at line 5.(ã¢—¹ıÿÿÿÿ
+M
+java:S1117"7Rename "name" which hides the field declared at line 4.(§Ùİı
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆèÑÑ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(é÷¾úÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ôÌ¿ò
+N	java:S106""9Replace this use of System.out or System.err by a logger.(«‹Îõ
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ˆèÑÑ8÷ªİô“1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(•‹¨§şÿÿÿÿ8şÀİô“1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(‘±ùÿÿÿÿ8›×İô“1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ˆ ëÌşÿÿÿÿ8İóİô“1

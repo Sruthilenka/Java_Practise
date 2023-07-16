@@ -1,0 +1,22 @@
+
+H
+java:S1113"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ
+A
+java:S1174"&Make this finalize() method protected.(­§óùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»Ùâııÿÿÿÿ8¬÷…ò“1
+L
+java:S1854"6Remove this useless assignment to local variable "f2".(¹Äô—
+Q
+java:S1854"6Remove this useless assignment to local variable "f1".(¦Õƒøÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "f2".(¾êî
+Q
+java:S1854
+"6Remove this useless assignment to local variable "f1".(òÎ€´ûÿÿÿÿ
+B
+java:S1481
+"'Remove this unused "f1" local variable.(òÎ€´ûÿÿÿÿ
+=
+java:S1481"'Remove this unused "f2" local variable.(¾êî
+o
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(º…Õïøÿÿÿÿ
