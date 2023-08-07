@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ParentChild;
 
 public class TestParentChild {
     public static void main(String[] args) {

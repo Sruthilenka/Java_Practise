@@ -1,6 +1,6 @@
-package org.example;
+package org.example.Casting;
 
-public class Cating {
+public class Casting {
     public static void main(String[] args) {
         //Implicit Casting
         short x = 1;

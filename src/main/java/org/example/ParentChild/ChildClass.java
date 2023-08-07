@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ParentChild;
 
 public class ChildClass extends ParentClass {
 

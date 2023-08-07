@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Casting;
 
 public class Wrapper {
     public static void main(String[] args) {

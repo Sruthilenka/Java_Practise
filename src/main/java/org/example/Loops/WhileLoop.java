@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Loops;
 
 public class WhileLoop {
     public static void main(String[] args){

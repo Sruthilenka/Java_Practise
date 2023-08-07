@@ -1,4 +1,4 @@
-package org.example;
+package org.example.CallBy;
 
 public class CallByReference {
     int p = 50;

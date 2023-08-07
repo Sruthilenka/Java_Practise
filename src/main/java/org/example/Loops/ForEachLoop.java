@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Loops;
 
 public class ForEachLoop {
     public static void main(String[] args){

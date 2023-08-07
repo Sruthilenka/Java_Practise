@@ -1,4 +1,4 @@
-package org.example;
+package org.example.SwitchStatement;
 
 import java.util.Scanner;
 
