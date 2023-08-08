@@ -1,20 +1,14 @@
 
-S
-#src/main/java/org/example/Main.java,0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 U
 %src/main/java/org/example/Cating.java,d/a/da044352ed827efac6c746d777112e90767e338a
 Z
 *src/main/java/org/example/IfStatement.java,2/8/287e9cce48018cea317e86817e572ecd265e7837
-X
-(src/main/java/org/example/Increment.java,c/d/cd3399c1ddff4e04abd9ebd1ea0b1d3c1fc30342
 _
 /src/main/java/org/example/LogicalOperators.java,f/e/fea892b9e09b223160550e46d1e14f84563b1dad
 \
 ,src/main/java/org/example/ParamsAndArgs.java,0/1/01247b5138cc055fab2aaec3ec3c9a30de146065
 [
 +src/main/java/org/example/ReadingInput.java,5/7/5709e3ab852b14f99fb4bce1ecf959c7473c6c5c
-\
-,src/main/java/org/example/ReferenceType.java,4/9/490a02f7d39ffe2da784c74fa71c22ddaf337011
 ^
 .src/main/java/org/example/SwitchStatement.java,9/8/98dd67789ed29717c0ab6a026e9079b412689255
 f
@@ -23,8 +17,6 @@ f
 .src/main/java/org/example/TernaryOperator.java,f/c/fc6b4e74c88263924aa67352c7d9b8caf82de481
 V
 &src/main/java/org/example/ForLoop.java,c/2/c2b1c035f60d34d5fffa0e288b36bcd71c85a502
-h
-8src/main/java/org/example/ReferenceType_Comparision.java,f/7/f7e40ee48bd7633816a3941fe4e317a57f507308
 V
 &src/main/java/org/example/DoWhile.java,c/c/cc0a90a745bbc992107cca7a6d46ba19e577900d
 a
@@ -45,10 +37,6 @@ a
 1src/main/java/org/example/MortgageCalculator.java,4/3/43e19ad04d66c98236369bafbff67a309faa53aa
 c
 3src/main/java/org/example/ComparisionOperators.java,0/1/015da8da80229c2da77156400d5d8ce270ebde1a
-X
-(src/main/java/org/example/NumFormat.java,5/8/58c51702ea7a486d30dd23630542d967f0b940ac
-e
-5src/main/java/org/example/StaticMethodsVariables.java,1/4/1425745af5f26c891036a18ec867cd71298ed88f
 `
 0src/main/java/Java_Part2Concepts/BrazilBank.java,2/5/25c8de3121fcdce7b6d91c70a498331cb6604f53
 a
@@ -67,16 +55,6 @@ i
 9src/main/java/org/example/ConstructorWithThisKeyword.java,e/5/e5a7f055247c5c54d303beec9e96454b8f104e6e
 `
 0src/main/java/org/example/Methodoverloading.java,1/9/194a9e52353e120405bcfc5cd1bd8d8bf2ddcc99
-f
-6src/main/java/ExceptionsDemo/CheckedExceptionDemo.java,0/0/002ece95f711d4acf27352f7258d60c8141a3707
-`
-0src/main/java/ExceptionsDemo/ExceptionsDemo.java,a/1/a1f5c42035006fc248284bc2555eaf35e5c534db
-V
-&src/main/java/ExceptionsDemo/Main.java,b/f/bfa1759034d32b02404d5d8e6092e45e3c5adc78
-Y
-)src/main/java/org/example/SupKeyMain.java,5/0/501b9083ee211abc8be67606bddcd419790c2446
-]
--src/main/java/org/example/SupKeySubClass.java,5/4/54317c18d3384f35ab0e51ea890b4058b77defd3
 ]
 -src/main/java/Java_Part2Concepts/TestCar.java,e/c/ec0c6215fbe7c7c32cc4ad8b4694415e8a3632d4
 Y

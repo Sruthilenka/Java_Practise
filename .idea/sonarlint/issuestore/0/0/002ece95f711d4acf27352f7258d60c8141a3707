@@ -1,13 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÀæ©ûÿÿÿÿ
-g
-java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(‘½Îüÿÿÿÿ8ÒƒŸ¥”1
-U
-java:S1118":Add a private constructor to hide the implicit public one.(ÙÃ‡Ãøÿÿÿÿ
-X
-java:S1854"6Remove this useless assignment to local variable "sc".(‘½Îüÿÿÿÿ8à‘¥”1
-I
-java:S1481"'Remove this unused "sc" local variable.(‘½Îüÿÿÿÿ8ã‘¥”1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(œØÏøÿÿÿÿ8ñÁ¡¥”1
-Q
-java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8èÿá¥”1
