@@ -113,7 +113,3 @@ V
 &src/main/java/ExceptionsDemo/Main.java,b/f/bfa1759034d32b02404d5d8e6092e45e3c5adc78
 `
 0src/main/java/ExceptionsDemo/ExceptionsDemo.java,a/1/a1f5c42035006fc248284bc2555eaf35e5c534db
-h
-8src/main/java/Collections/ThreadSafety/ThreadSafety.java,3/4/349bac3940263414b6d61e6cad095c4e3a00cf5f
-i
-9src/main/java/Collections/ThreadSafety/ThreadSafety2.java,d/7/d7287cad09ff55b731c91caa099b70fd6a029f79
