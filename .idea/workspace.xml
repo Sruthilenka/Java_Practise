@@ -4,43 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="ArrayLists part 1">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/01247b5138cc055fab2aaec3ec3c9a30de146065" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/015da8da80229c2da77156400d5d8ce270ebde1a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/194a9e52353e120405bcfc5cd1bd8d8bf2ddcc99" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25c8de3121fcdce7b6d91c70a498331cb6604f53" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/287e9cce48018cea317e86817e572ecd265e7837" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/3880ac3d010d4133dd3929e09e1f64af89e16938" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4051ab863a74ab02016817b401aec10f428b9739" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43e19ad04d66c98236369bafbff67a309faa53aa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/480de696118ad65ca7b472931047f56e33fa56d9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5709e3ab852b14f99fb4bce1ecf959c7473c6c5c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59a1a5cbf4052071a5890c77db31982cacbed439" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5db901692bd1896abe585087dd5bca2975c1d512" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/651243a19b71db9497ac1a6b248cfe5e8809adcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66849b6e561f5aedfa3403c9fb8915809e9fd599" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67a32887d1d66caae8440b78751c2796260fe60a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6eac85801340fbe2df37b581731a07159ea11c4b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c7180a570318ddff221b29f2b27eb0eaebe9d55" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e20b2ae4795a13b097af4597a98145815df746a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/920f850162e655e7dfdd7405a5d5514e13294934" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98dd67789ed29717c0ab6a026e9079b412689255" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a83b11f000fa9cfb66b75c820cd2d01e41e76b53" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/baf9cdbb0b77fc26e85209ff129fa4a3e0b45aa5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb5a37aadbcb4fa29f705e0283e83b7aa0e2794d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2b1c035f60d34d5fffa0e288b36bcd71c85a502" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc0a90a745bbc992107cca7a6d46ba19e577900d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9b3e347e0ff9b789be2ef97e777e60e2bf63690" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da044352ed827efac6c746d777112e90767e338a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5a7f055247c5c54d303beec9e96454b8f104e6e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec0c6215fbe7c7c32cc4ad8b4694415e8a3632d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1376d79e19b311c7746cc1f9045d478aa8ae1d0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f798857b704e4ee7d7a5a2bbdbe3f8c027626171" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8bc1344134d8f14bc7eff37d73c57a292d0eb09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc6b4e74c88263924aa67352c7d9b8caf82de481" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fea892b9e09b223160550e46d1e14f84563b1dad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="ArrayLists">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists/ArrayListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists/ArrayListMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists/RemoveDuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists/RemoveDuplicateElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +38,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SynchronizedArrayList">
+  <component name="RunManager" selected="Application.HashMapBasics">
+    <configuration name="ArrayListCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayLists.ArrayListCompare" />
+      <module name="Java_Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.ArrayLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.ArrayLists.ArrayListMethods" />
       <module name="Java_Practise" />
@@ -85,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListsConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayLists.ArrayListsConcept" />
+    <configuration name="HashMapBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashMap.HashMapBasics" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayLists.*" />
+          <option name="PATTERN" value="Collections.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayLists.IteratingArrayList" />
+    <configuration name="RemoveDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayLists.RemoveDuplicateElements" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
@@ -124,33 +104,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VirtualCapacity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayLists.VirtualCapacity" />
-      <module name="Java_Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections.ArrayLists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ArrayListsConcept" />
-      <item itemvalue="Application.VirtualCapacity" />
-      <item itemvalue="Application.IteratingArrayList" />
       <item itemvalue="Application.ArrayListMethods" />
       <item itemvalue="Application.SynchronizedArrayList" />
+      <item itemvalue="Application.RemoveDuplicateElements" />
+      <item itemvalue="Application.ArrayListCompare" />
+      <item itemvalue="Application.HashMapBasics" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapBasics" />
+        <item itemvalue="Application.ArrayListCompare" />
+        <item itemvalue="Application.RemoveDuplicateElements" />
         <item itemvalue="Application.SynchronizedArrayList" />
         <item itemvalue="Application.ArrayListMethods" />
-        <item itemvalue="Application.ArrayListsConcept" />
-        <item itemvalue="Application.IteratingArrayList" />
-        <item itemvalue="Application.VirtualCapacity" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691469110125</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ArrayLists">
+      <created>1691856824449</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691856824449</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +247,7 @@
     <MESSAGE value="Segregating part 1" />
     <MESSAGE value="Segregating part 2" />
     <MESSAGE value="ArrayLists part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayLists part 1" />
+    <MESSAGE value="ArrayLists" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayLists" />
   </component>
 </project>

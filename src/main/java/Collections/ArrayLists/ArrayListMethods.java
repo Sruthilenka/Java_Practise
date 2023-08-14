@@ -71,7 +71,7 @@ public class ArrayListMethods {
         ArrayList<Integer> numberSublist = new ArrayList<Integer>(numbers1.subList(2,6));
         System.out.println(numberSublist);
 
-        //converting an arraylist to an arrat - toArray() -- returns Array
+        //converting an arraylist to an array - toArray() -- returns Array
         ArrayList<String> newnamesList = new ArrayList<String>(Arrays.asList("Tom","Jerry","mia","sofy","Tom"));
         Object arr[]= newnamesList.toArray(); //return type is Object array , so create an obj array to store it
         System.out.println(arr[1]); // needs indexing so to print entire array, sonvert it to string
