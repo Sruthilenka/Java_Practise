@@ -1,0 +1,15 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ÓÓûüÿÿÿÿ
+}
+java:S1192"bDefine a constant instead of duplicating this literal "*********************************" 3 times.(ÿâöøÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½³ñE
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÆúäşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿâöøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿâöøÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(‰Âİüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰Âİüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿâöøÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(É„†ú

@@ -1,0 +1,22 @@
+
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(äŞ×
+]
+java:S1192"GDefine a constant instead of duplicating this literal "France" 3 times.(¸£ƒÆ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œûÏÓüÿÿÿÿ
+Z
+java:S4143"DVerify this is the key that was intended; it was already set before.(®–ù
+_
+java:S4143"DVerify this is the key that was intended; it was already set before.(ãèĞ›ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åç´ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğé¦Œûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ä¨Ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ¬­Óüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ş©½ª
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò¥œ÷
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ã¸¬¤ùÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ƒ’¸øÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(°îƒ¾úÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(µ²àÓşÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ìÀ¡ıÿÿÿÿ

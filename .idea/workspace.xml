@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="ArrayLists and hasp map basics">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/349bac3940263414b6d61e6cad095c4e3a00cf5f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7287cad09ff55b731c91caa099b70fd6a029f79" beforeDir="false" />
+    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="Hash Map">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0275bde26dec028528329edfbe65ee70caec1f7e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0619eef0dafa37e926711ee78d0de447bf4ddd46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06a4a9229575eba3259b59a160fa0faf9c8dbc14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d11a4aac26df0ff9084cc6aab86e281d67071ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a083ab6301352e96e1247d467f6b44f80527537" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bef7ac7e28e2f1b91857cfa15e8b908b14ef7dec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e05165ea1c50348b7023a9871b22dcc8658741ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap/ConcHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Collections/HashMap/HashMapCompare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Collections/HashMap/HashMapInitialization$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Collections/HashMap/HashMapInitialization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Collections/HashMap/SynchronisedMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39bcc8f10bd19bf5fb19f08a4184697589eb1973" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists/RemoveDuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists/RemoveDuplicateElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Collections/ArrayLists/RemoveDuplicateElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/ArrayLists/RemoveDuplicateElements.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,22 +59,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ConcurrentHashMap">
-    <configuration name="ConcurrentHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.HashMap.ConcurrentHashMap" />
-      <module name="Java_Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections.HashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashMapBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.HashMap.HashMapBasics" />
+  <component name="RunManager" selected="Application.csslocators">
+    <configuration name="ConcHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashMap.ConcHashMap" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
@@ -102,12 +99,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayLists.RemoveDuplicateElements" />
+    <configuration name="HashMapToArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashMap.HashMapToArrayList" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayLists.*" />
+          <option name="PATTERN" value="Collections.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csslocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.csslocators" />
+      <module name="Java_Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveDuplicateElements" />
-      <item itemvalue="Application.HashMapBasics" />
       <item itemvalue="Application.HashMapCompare" />
       <item itemvalue="Application.HashMapInitialization" />
-      <item itemvalue="Application.ConcurrentHashMap" />
+      <item itemvalue="Application.ConcHashMap" />
+      <item itemvalue="Application.HashMapToArrayList" />
+      <item itemvalue="Application.csslocators" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConcurrentHashMap" />
+        <item itemvalue="Application.csslocators" />
+        <item itemvalue="Application.HashMapToArrayList" />
+        <item itemvalue="Application.ConcHashMap" />
         <item itemvalue="Application.HashMapInitialization" />
         <item itemvalue="Application.HashMapCompare" />
-        <item itemvalue="Application.HashMapBasics" />
-        <item itemvalue="Application.RemoveDuplicateElements" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691995469650</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Hash Map">
+      <created>1692028288856</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692028288856</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +284,7 @@
     <MESSAGE value="ArrayLists part 1" />
     <MESSAGE value="ArrayLists" />
     <MESSAGE value="ArrayLists and hasp map basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayLists and hasp map basics" />
+    <MESSAGE value="Hash Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hash Map" />
   </component>
 </project>
