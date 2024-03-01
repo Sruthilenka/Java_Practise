@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="Hash Map">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0275bde26dec028528329edfbe65ee70caec1f7e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0619eef0dafa37e926711ee78d0de447bf4ddd46" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06a4a9229575eba3259b59a160fa0faf9c8dbc14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d11a4aac26df0ff9084cc6aab86e281d67071ac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a083ab6301352e96e1247d467f6b44f80527537" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bef7ac7e28e2f1b91857cfa15e8b908b14ef7dec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e05165ea1c50348b7023a9871b22dcc8658741ee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap/ConcHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Collections/HashMap/HashMapCompare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Collections/HashMap/HashMapInitialization$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Collections/HashMap/HashMapInitialization.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Collections/HashMap/SynchronisedMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39bcc8f10bd19bf5fb19f08a4184697589eb1973" beforeDir="false" />
+    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="collections and locators">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_ByWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_WordsAtPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseCharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseToCharArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -59,13 +52,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
-  <component name="RunManager" selected="Application.csslocators">
-    <configuration name="ConcHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.HashMap.ConcHashMap" />
+  <component name="RunManager" selected="Application.BreakAndContinue">
+    <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SwitchStatement.BreakAndContinue" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.HashMap.*" />
+          <option name="PATTERN" value="org.example.SwitchStatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.HashMap.HashMapCompare" />
+    <configuration name="ReverseString_ByWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code_Practise.ReverseString_ByWord" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.HashMap.*" />
+          <option name="PATTERN" value="Java_Code_Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.HashMap.HashMapInitialization" />
+    <configuration name="ReverseString_WordsAtPlace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code_Practise.ReverseString_WordsAtPlace" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.HashMap.*" />
+          <option name="PATTERN" value="Java_Code_Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapToArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.HashMap.HashMapToArrayList" />
+    <configuration name="StringReverseStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code_Practise.StringReverseStringBuffer" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.HashMap.*" />
+          <option name="PATTERN" value="Java_Code_Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="csslocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.csslocators" />
+    <configuration name="StringReverseStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code_Practise.StringReverseStringBuilder" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumDemo.*" />
+          <option name="PATTERN" value="Java_Code_Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,19 +119,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HashMapCompare" />
-      <item itemvalue="Application.HashMapInitialization" />
-      <item itemvalue="Application.ConcHashMap" />
-      <item itemvalue="Application.HashMapToArrayList" />
-      <item itemvalue="Application.csslocators" />
+      <item itemvalue="Application.StringReverseStringBuffer" />
+      <item itemvalue="Application.StringReverseStringBuilder" />
+      <item itemvalue="Application.ReverseString_ByWord" />
+      <item itemvalue="Application.ReverseString_WordsAtPlace" />
+      <item itemvalue="Application.BreakAndContinue" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.csslocators" />
-        <item itemvalue="Application.HashMapToArrayList" />
-        <item itemvalue="Application.ConcHashMap" />
-        <item itemvalue="Application.HashMapInitialization" />
-        <item itemvalue="Application.HashMapCompare" />
+        <item itemvalue="Application.BreakAndContinue" />
+        <item itemvalue="Application.ReverseString_WordsAtPlace" />
+        <item itemvalue="Application.ReverseString_ByWord" />
+        <item itemvalue="Application.StringReverseStringBuilder" />
+        <item itemvalue="Application.StringReverseStringBuffer" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692028288856</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="collections and locators">
+      <created>1693282833523</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693282833523</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +285,7 @@
     <MESSAGE value="ArrayLists" />
     <MESSAGE value="ArrayLists and hasp map basics" />
     <MESSAGE value="Hash Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hash Map" />
+    <MESSAGE value="collections and locators" />
+    <option name="LAST_COMMIT_MESSAGE" value="collections and locators" />
   </component>
 </project>
