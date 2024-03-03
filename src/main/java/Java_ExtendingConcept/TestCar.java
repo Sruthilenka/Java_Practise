@@ -9,10 +9,12 @@ public class TestCar {
         b.theftSafety();
         b.engine();   //vehicle class's method
         //Runtime polymorphism
+
         Car c1 = new BMW(); // This is also called top-casting
         c1.start(); //here always child class method will be accessible
         c1.stop(); // taken from parent's class
         c1.refuel();
+        c1.engine();
        // c1.theftsafety(); -- cant access theft safety method as it belong to only child class.
        //Similarly for downcasting:
        BMW b1 = (BMW)new Car();  // throws exception

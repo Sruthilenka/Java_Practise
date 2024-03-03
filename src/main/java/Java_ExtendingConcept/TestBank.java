@@ -11,11 +11,13 @@ public class TestBank {
         hb.transferMoney();
         hb.carLoan();
         hb.educationLoan();
+        hb.mutualFunds();
 
 
         USBank us = new HSBCBank();
         us.credit();
         us.debit();
         us.transferMoney();
+
     }
 }

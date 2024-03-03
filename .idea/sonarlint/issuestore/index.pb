@@ -31,12 +31,6 @@ a
 1src/main/java/org/example/CallBy/CallByValue.java,3/5/35f9d58a11ab88838d9a77ec6c408ff8bfcf8147
 j
 :src/main/java/org/example/Arrays/ArraysImplementation.java,7/6/768367933a7e401a0c104e7672584600e282ff55
-\
-,src/main/java/Java_ExtendingConcept/BMW.java,e/c/ecee2dc9818f5d6e10c286fea8e1d81183999881
-c
-3src/main/java/Java_ExtendingConcept/BrazilBank.java,5/9/591afcf2c6b8c8d607703b6d27f6df0aad0e086c
-\
-,src/main/java/Java_ExtendingConcept/Car.java,b/9/b980fa3db1f5e08d74fa5b2353ad7ab31eac8a33
 m
 =src/main/java/org/example/Operators/ComparisionOperators.java,4/c/4c82f0ddceb89b413467ea6b9189850edcf5e507
 m
@@ -51,8 +45,6 @@ f
 6src/main/java/org/example/Keywords/FInallyConcept.java,b/e/be9802ea772bf1faad0af1e50880c5d3e3abbf38
 q
 Asrc/main/java/org/example/BasicConcepts/GlobalLocalVariables.java,c/4/c47a007cd91c331595d3f788a76df932c60fea22
-a
-1src/main/java/Java_ExtendingConcept/HSBCBank.java,e/0/e07cf09295c0ef97107dff76773b64143d5ea571
 f
 6src/main/java/org/example/IfStatement/IfStatement.java,1/6/16f4ea26b4c55f6b3fffd60f19d6c4d37e50822e
 b
@@ -91,14 +83,6 @@ f
 6src/main/java/org/example/Keywords/SupKeySubClass.java,9/6/964ecf5c4cef97f9ccd37931428b6e6f9bde91f0
 h
 8src/main/java/org/example/Operators/TernaryOperator.java,d/8/d85d16a9ad77dc99f2dcfd44bc8557ed627160fc
-a
-1src/main/java/Java_ExtendingConcept/TestBank.java,6/2/62c73ad09faecf81a57cb75b31bf0e3b012d1665
-`
-0src/main/java/Java_ExtendingConcept/TestCar.java,9/f/9f6d059d9ad8146c94842b9fe29d2e632841cd58
-_
-/src/main/java/Java_ExtendingConcept/USBank.java,f/5/f595d608628673f2100591526454a86b6fea98bf
-`
-0src/main/java/Java_ExtendingConcept/Vehicle.java,4/7/478f0d2e87e8c661ebf042cd6ca93283286f6f83
 f
 6src/main/java/ExceptionsDemo/CheckedExceptionDemo.java,0/0/002ece95f711d4acf27352f7258d60c8141a3707
 V

@@ -3,6 +3,8 @@ package Java_ExtendingConcept;
 public class HSBCBank implements USBank , BrazilBank {
 
     public void credit(){
+        int min_bal = USBank.min_bal;
+        System.out.println(min_bal);
         System.out.println("HSBC credit ");
     }
     public void debit(){
@@ -17,6 +19,8 @@ public class HSBCBank implements USBank , BrazilBank {
     public void carLoan(){
         System.out.println("HSBC carLoan ");
     }
+    
+   
 
     @Override
     public void mutualFunds() {

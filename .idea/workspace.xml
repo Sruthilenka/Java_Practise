@@ -4,16 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="collections and locators">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_ByWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_WordsAtPlace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseCharAt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseStringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseToCharArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="collections and locators and reverse string java code practise">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/DynamicDropDowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/PassengerFieldDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/StaticDropDowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/WindowActivities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/478f0d2e87e8c661ebf042cd6ca93283286f6f83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/591afcf2c6b8c8d607703b6d27f6df0aad0e086c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62c73ad09faecf81a57cb75b31bf0e3b012d1665" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f6d059d9ad8146c94842b9fe29d2e632841cd58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b980fa3db1f5e08d74fa5b2353ad7ab31eac8a33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e07cf09295c0ef97107dff76773b64143d5ea571" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecee2dc9818f5d6e10c286fea8e1d81183999881" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f595d608628673f2100591526454a86b6fea98bf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_WordsAtPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_WordsAtPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/HSBCBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/HSBCBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseCharAt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseCharAt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +62,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BreakAndContinue">
+  <component name="RunManager" selected="Application.StringReverseCharAt">
     <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.SwitchStatement.BreakAndContinue" />
       <module name="Java_Practise" />
@@ -66,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString_ByWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code_Practise.ReverseString_ByWord" />
+    <configuration name="PassengerFieldDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.PassengerFieldDropDown" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Code_Practise.*" />
+          <option name="PATTERN" value="SeleniumDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverseStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code_Practise.StringReverseStringBuffer" />
+    <configuration name="StringReverseCharAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code_Practise.StringReverseCharAt" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverseStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code_Practise.StringReverseStringBuilder" />
+    <configuration name="WindowActivities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.WindowActivities" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Code_Practise.*" />
+          <option name="PATTERN" value="SeleniumDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,19 +129,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringReverseStringBuffer" />
-      <item itemvalue="Application.StringReverseStringBuilder" />
-      <item itemvalue="Application.ReverseString_ByWord" />
       <item itemvalue="Application.ReverseString_WordsAtPlace" />
       <item itemvalue="Application.BreakAndContinue" />
+      <item itemvalue="Application.WindowActivities" />
+      <item itemvalue="Application.PassengerFieldDropDown" />
+      <item itemvalue="Application.StringReverseCharAt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringReverseCharAt" />
+        <item itemvalue="Application.PassengerFieldDropDown" />
+        <item itemvalue="Application.WindowActivities" />
         <item itemvalue="Application.BreakAndContinue" />
         <item itemvalue="Application.ReverseString_WordsAtPlace" />
-        <item itemvalue="Application.ReverseString_ByWord" />
-        <item itemvalue="Application.StringReverseStringBuilder" />
-        <item itemvalue="Application.StringReverseStringBuffer" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693282833523</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="collections and locators and reverse string java code practise">
+      <created>1709305214992</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709305214993</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +303,7 @@
     <MESSAGE value="ArrayLists and hasp map basics" />
     <MESSAGE value="Hash Map" />
     <MESSAGE value="collections and locators" />
-    <option name="LAST_COMMIT_MESSAGE" value="collections and locators" />
+    <MESSAGE value="collections and locators and reverse string java code practise" />
+    <option name="LAST_COMMIT_MESSAGE" value="collections and locators and reverse string java code practise" />
   </component>
 </project>
