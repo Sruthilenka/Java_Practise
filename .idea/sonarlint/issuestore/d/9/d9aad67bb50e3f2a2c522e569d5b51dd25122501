@@ -1,0 +1,62 @@
+
+k	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÜÎûÿÿÿÿ
+2
+java:S1643$"Use a StringBuilder instead.(Ÿ‡†á
+2
+java:S1643X"Use a StringBuilder instead.(ÅÈïº
+2
+java:S1643Z"Use a StringBuilder instead.(Ô‚¶ã
+2
+java:S1643s"Use a StringBuilder instead.(óŒ´“
+8
+java:S1643¼"Use a StringBuilder instead.(¿¥Û¬ÿÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùÛŸáøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(èŠı‚
+V	java:S125"<This block of commented-out lines of code should be removed.(¼Œêüÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "sb".(‡¸•¬
+=
+java:S1481"'Remove this unused "sb" local variable.(‡¸•¬
+?
+java:S1481!")Remove this unused "rev1" local variable.(Ø’¢ä
+V	java:S125%"<This block of commented-out lines of code should be removed.(ıÙ•úùÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ÖøÔøÿÿÿÿÿ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(ı¼è¿
+c	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©÷í¯
+]	java:S1250"<This block of commented-out lines of code should be removed.(©¶’¤üÿÿÿÿ8æåøß1
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(Áı½½üÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(»¯˜¾
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ò÷Ôıÿÿÿÿ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(»µúî
+V	java:S125n"<This block of commented-out lines of code should be removed.(”ª––ùÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(ÚÊ¼™
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¼âô÷
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(¹®ñ‰
+E
+java:S1481")Remove this unused "temp" local variable.(â·Î¶ùÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(Ğœ§®ÿÿÿÿÿ
+O	java:S106›"9Replace this use of System.out or System.err by a logger.( §‡İ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(ƒ‘äÎúÿÿÿÿ
+O	java:S106­"9Replace this use of System.out or System.err by a logger.(öŠˆ‹
+2
+java:S3626º"Remove this redundant jump.(ÉŠ©ƒ
+O	java:S106Ä"9Replace this use of System.out or System.err by a logger.(ò½áÌ
+R	java:S125É"<This block of commented-out lines of code should be removed.(®¼¦
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(ãÊ†¶
+O	java:S106ê"9Replace this use of System.out or System.err by a logger.(²ª”Ò
+O	java:S106ú"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+C
+java:S1125"'Remove the unnecessary boolean literal.(Š¨Ğşÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(£êçãúÿÿÿÿ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(°¬¹¢ÿÿÿÿÿ
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(£ˆúú
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(ú¤¹İùÿÿÿÿ
+;
+java:S1659¨"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(×Æáî
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(Ææ Ï
+T	java:S106È"9Replace this use of System.out or System.err by a logger.(½ú„úÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(˜îÅÿÿÿÿÿ
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(¦¬³µ

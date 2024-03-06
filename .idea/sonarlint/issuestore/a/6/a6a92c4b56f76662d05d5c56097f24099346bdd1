@@ -1,0 +1,23 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÓ¢ü
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ’Ú
+L
+java:S1854"6Remove this useless assignment to local variable "al".(óÓ¢ü
+=
+java:S1481"'Remove this unused "al" local variable.(óÓ¢ü
+Q	java:S125"<This block of commented-out lines of code should be removed.(øø„¯
+V	java:S125"<This block of commented-out lines of code should be removed.(€ÈÊ˜øÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(ÿïš¨ıÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(ÅÃÇç
+A
+java:S1172K"+Remove this unused method parameter "args".(Î½ºğ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(Ÿ…Öúÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(§æ² ıÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(øó­ëıÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

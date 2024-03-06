@@ -1,0 +1,25 @@
+
+2
+java:S1643"Use a StringBuilder instead.(ş¨‹ú
+7
+java:S1643"Use a StringBuilder instead.(¾Òˆõúÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èâ‹m
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÕÂÊ‡ùÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Îßá
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÚëO
+6
+java:S2129" Remove this "String" constructor(ššæ¥
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”»«Àüÿÿÿÿ
+M
+java:S3972"7Move this "if" to a new line or add the missing "else".(Îßá
+M	java:S106"9Replace this use of System.out or System.err by a logger.(…Å*
+M
+java:S3972 "7Move this "if" to a new line or add the missing "else".(è »
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(˜œñ1
+M
+java:S3972""7Move this "if" to a new line or add the missing "else".(§ßâÕ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ç‚³„
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ

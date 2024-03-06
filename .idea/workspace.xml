@@ -4,26 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="collections and locators and reverse string java code practise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/DynamicDropDowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/PassengerFieldDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/StaticDropDowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/WindowActivities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/478f0d2e87e8c661ebf042cd6ca93283286f6f83" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/591afcf2c6b8c8d607703b6d27f6df0aad0e086c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62c73ad09faecf81a57cb75b31bf0e3b012d1665" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f6d059d9ad8146c94842b9fe29d2e632841cd58" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b980fa3db1f5e08d74fa5b2353ad7ab31eac8a33" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e07cf09295c0ef97107dff76773b64143d5ea571" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecee2dc9818f5d6e10c286fea8e1d81183999881" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f595d608628673f2100591526454a86b6fea98bf" beforeDir="false" />
+    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Anagram/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveNumberFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveWordFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumAddToCartProject/AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/ActionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/Assesrtions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/AutoSuggestiveDropdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/CheckboxSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/EnableOfWebElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/Screenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClassDemo/ChildClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16f4ea26b4c55f6b3fffd60f19d6c4d37e50822e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16f4ea26b4c55f6b3fffd60f19d6c4d37e50822e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bce8eccfa6dc8327d3344c04f2a91b32574bcd5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d1c585a6ba907bca818af3967e731f7d0e65f73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b1851fad37a72b502f2c51e1f70c283f454ce31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d930c4a0bd1ed9ba35593c5328695a9cd8f8e34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/768367933a7e401a0c104e7672584600e282ff55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e423902e4c8d8c3921df77098521a27c7e68a447" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7bd807e91dabffcbbcecf29d93a2421537b8eed" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_WordsAtPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_WordsAtPlace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/HSBCBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/HSBCBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseCharAt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseCharAt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_ByWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseString_ByWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_WordsAtPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseString_WordsAtPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseCharAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/StringReverseCharAt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/StringReverseStringBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/StringReverseStringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseToCharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/StringReverseToCharArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SeleniumDemo/DynamicDropDowns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/DynamicDropDowns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SeleniumDemo/WindowActivities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/WindowActivities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/ReverseString_ByWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/ReverseString_WordsAtPlace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseCharAt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseStringBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseStringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseToCharArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/HSBCBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/HSBCBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumDemo/WindowActivities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumDemo/WindowActivities.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +85,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Application.StringReverseCharAt">
-    <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.SwitchStatement.BreakAndContinue" />
+  <component name="RunManager" selected="Application.ArraysImplementation">
+    <configuration name="ArraysImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Arrays.ArraysImplementation" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.SwitchStatement.*" />
+          <option name="PATTERN" value="org.example.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +104,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassengerFieldDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.PassengerFieldDropDown" />
+    <configuration name="ChildClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.AbstractClassDemo.ChildClass" />
+      <module name="Java_Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.AbstractClassDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChildWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.ChildWindows" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
@@ -89,38 +130,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString_WordsAtPlace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code_Practise.ReverseString_WordsAtPlace" />
-      <module name="Java_Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Code_Practise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringReverseCharAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code_Practise.StringReverseCharAt" />
-      <module name="Java_Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Code_Practise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WindowActivities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.WindowActivities" />
+    <configuration name="Frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.Frames" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SeleniumDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_ExtendingConcept.TestBank" />
+      <module name="Java_Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_ExtendingConcept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,19 +157,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseString_WordsAtPlace" />
-      <item itemvalue="Application.BreakAndContinue" />
-      <item itemvalue="Application.WindowActivities" />
-      <item itemvalue="Application.PassengerFieldDropDown" />
-      <item itemvalue="Application.StringReverseCharAt" />
+      <item itemvalue="Application.ChildWindows" />
+      <item itemvalue="Application.Frames" />
+      <item itemvalue="Application.ChildClass" />
+      <item itemvalue="Application.TestBank" />
+      <item itemvalue="Application.ArraysImplementation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringReverseCharAt" />
-        <item itemvalue="Application.PassengerFieldDropDown" />
-        <item itemvalue="Application.WindowActivities" />
-        <item itemvalue="Application.BreakAndContinue" />
-        <item itemvalue="Application.ReverseString_WordsAtPlace" />
+        <item itemvalue="Application.ArraysImplementation" />
+        <item itemvalue="Application.TestBank" />
+        <item itemvalue="Application.ChildClass" />
+        <item itemvalue="Application.Frames" />
+        <item itemvalue="Application.ChildWindows" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709305214993</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="java">
+      <created>1709441325461</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709441325461</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +339,43 @@
     <MESSAGE value="Hash Map" />
     <MESSAGE value="collections and locators" />
     <MESSAGE value="collections and locators and reverse string java code practise" />
-    <option name="LAST_COMMIT_MESSAGE" value="collections and locators and reverse string java code practise" />
+    <MESSAGE value="java" />
+    <option name="LAST_COMMIT_MESSAGE" value="java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
