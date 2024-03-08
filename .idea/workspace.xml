@@ -5,49 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Anagram/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveNumberFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveWordFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumAddToCartProject/AddToCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/ActionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/Assesrtions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/AutoSuggestiveDropdowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/Calendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/CheckboxSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/EnableOfWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/Screenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClassDemo/ChildClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16f4ea26b4c55f6b3fffd60f19d6c4d37e50822e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16f4ea26b4c55f6b3fffd60f19d6c4d37e50822e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bce8eccfa6dc8327d3344c04f2a91b32574bcd5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d1c585a6ba907bca818af3967e731f7d0e65f73" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b1851fad37a72b502f2c51e1f70c283f454ce31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d930c4a0bd1ed9ba35593c5328695a9cd8f8e34" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/768367933a7e401a0c104e7672584600e282ff55" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e423902e4c8d8c3921df77098521a27c7e68a447" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7bd807e91dabffcbbcecf29d93a2421537b8eed" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ArrayListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/CopyOnWriteAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/RemoveEvenFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/SynchronisedAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/VirtualCapacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/iteratingAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0619eef0dafa37e926711ee78d0de447bf4ddd46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/349bac3940263414b6d61e6cad095c4e3a00cf5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7287cad09ff55b731c91caa099b70fd6a029f79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e05165ea1c50348b7023a9871b22dcc8658741ee" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_ByWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseString_ByWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/ReverseString_WordsAtPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseString_WordsAtPlace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseCharAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/StringReverseCharAt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/StringReverseStringBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/StringReverseStringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_Practise/StringReverseToCharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/StringReverseToCharArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeleniumDemo/DynamicDropDowns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/DynamicDropDowns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeleniumDemo/WindowActivities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/WindowActivities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/ReverseString_ByWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/ReverseString_WordsAtPlace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseCharAt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseStringBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseStringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_Practise/StringReverseToCharArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/HSBCBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/HSBCBank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestBank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumDemo/WindowActivities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumDemo/WindowActivities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ThreadSafety/ThreadSafety2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ThreadSafety/ThreadSafety2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,13 +60,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Application.ArraysImplementation">
-    <configuration name="ArraysImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Arrays.ArraysImplementation" />
+  <component name="RunManager" selected="Application.CopyOnWriteAL">
+    <configuration name="CopyOnWriteAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList2.CopyOnWriteAL" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Arrays.*" />
+          <option name="PATTERN" value="Collections.ArrayList2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChildClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.AbstractClassDemo.ChildClass" />
+    <configuration name="RemoveEvenFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList2.RemoveEvenFromList" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.AbstractClassDemo.*" />
+          <option name="PATTERN" value="Collections.ArrayList2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChildWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.ChildWindows" />
+    <configuration name="RetainAllInAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList2.RetainAllInAL" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumDemo.*" />
+          <option name="PATTERN" value="Collections.ArrayList2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.Frames" />
+    <configuration name="SynchronisedAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList2.SynchronisedAL" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumDemo.*" />
+          <option name="PATTERN" value="Collections.ArrayList2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_ExtendingConcept.TestBank" />
+    <configuration name="ToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList2.ToArray" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_ExtendingConcept.*" />
+          <option name="PATTERN" value="Collections.ArrayList2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,19 +127,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ChildWindows" />
-      <item itemvalue="Application.Frames" />
-      <item itemvalue="Application.ChildClass" />
-      <item itemvalue="Application.TestBank" />
-      <item itemvalue="Application.ArraysImplementation" />
+      <item itemvalue="Application.RemoveEvenFromList" />
+      <item itemvalue="Application.RetainAllInAL" />
+      <item itemvalue="Application.ToArray" />
+      <item itemvalue="Application.SynchronisedAL" />
+      <item itemvalue="Application.CopyOnWriteAL" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraysImplementation" />
-        <item itemvalue="Application.TestBank" />
-        <item itemvalue="Application.ChildClass" />
-        <item itemvalue="Application.Frames" />
-        <item itemvalue="Application.ChildWindows" />
+        <item itemvalue="Application.CopyOnWriteAL" />
+        <item itemvalue="Application.SynchronisedAL" />
+        <item itemvalue="Application.ToArray" />
+        <item itemvalue="Application.RetainAllInAL" />
+        <item itemvalue="Application.RemoveEvenFromList" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709441325461</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="java">
+      <created>1709764865982</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709764865983</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
