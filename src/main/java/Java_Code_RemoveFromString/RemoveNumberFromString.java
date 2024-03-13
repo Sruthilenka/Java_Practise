@@ -9,15 +9,16 @@ public class RemoveNumberFromString {
 
     public static void removeNum(String s) {
         String s1 = s.replaceAll("\\d", "");
-        System.out.println(s1.replaceAll("\\s{2}", ""));
+        System.out.println(s1);
+       System.out.println(s1.replaceAll("\\s{2}", ""));
     }
 
 
-    public static void removeNumCharacterClass(String s) {
+   public static void removeNumCharacterClass(String s) {
         String output = "";
         System.out.println(s.length());
         char[] ch = s.toCharArray();
-        for (int i = 0; i <= ch.length - 1; i++) {
+        for (int i = 0; i <= ch.length-1; i++) {
             if (Character.isAlphabetic(ch[i]))
                 output = output + ch[i];
         }
@@ -37,8 +38,8 @@ public class RemoveNumberFromString {
     public static void main(String[] args) {
         removeNum("Sruthi1234lenka5678");
         removeNum("Sruthi 1234 lenka 5678");
-        removeNumCharacterClass("Sruthi 1234 lenka 5678");
-        removeNumCharacterClass2("Sruthi 1234 lenka 5678");
+       removeNumCharacterClass("Sruthi 1234 lenka 5678");
+       removeNumCharacterClass2("Sruthi 1234 lenka 5678");
 
 
     }

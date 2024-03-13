@@ -14,7 +14,7 @@ public class ToArray {
 
         //If u want to print them one by one
         for(Object o:newar){
-            System.out.println(o);
+            System.out.println((String)o); //System.out.println(o); is also returning the same output
         }
 
     }

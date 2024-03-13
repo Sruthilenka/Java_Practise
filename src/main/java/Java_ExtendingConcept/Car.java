@@ -12,4 +12,6 @@ public class Car extends Vehicle{
     public void refuel(){
         System.out.println("Car-->Refuel");
     }
+    public void main(){
+        System.out.println("I am main method");}; //checking if we can use 'main' word for methods as it is not a keyword.
 }

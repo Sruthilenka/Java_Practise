@@ -3,6 +3,7 @@ package Collections.ArrayList2;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
+import java.util.List;
 
 public class ArrayListFromArray {
     public static void main(String[] args){
@@ -10,6 +11,7 @@ public class ArrayListFromArray {
       //  ArrayList<String> al1= new ArrayList<String>(Arrays.asList("Sruthi","Lenka"));
         String[] name= {"Sruthi","Lenka"};
         ArrayList<String> al1= new ArrayList<String>(Arrays.asList(name));
+        List al2 = Arrays.asList(name);
         System.out.println(al1);
         System.out.println(al1.get(0));
 

@@ -4,20 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ArrayListMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/CopyOnWriteAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/RemoveEvenFromList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/SynchronisedAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/VirtualCapacity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/iteratingAL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0619eef0dafa37e926711ee78d0de447bf4ddd46" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/349bac3940263414b6d61e6cad095c4e3a00cf5f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7287cad09ff55b731c91caa099b70fd6a029f79" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e05165ea1c50348b7023a9871b22dcc8658741ee" beforeDir="false" />
+    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="Collections-Arraylists">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ArrayListsComparision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/CommonElementsinALs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/RemoveDuplicateFromAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/EnumSet/AddOneSetToOther.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/EnumSet/EnumSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/EnumSet/IterateEnumSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/EnumSet/removeES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap/SynchronisedMap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/AdditionalKeyHM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/BasicDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/CompareByValuesHM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/CompareHM1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/ConcurrentHashMap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/IterateLamdaHM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/IteratingKeyValuePairHM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/IteratingkeysHM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/SingletonMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMaptoArrayList/HashMapToArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/AddingTwoSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/DifferenceHS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/HashSetDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/HashSetMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/IntersectionOrCommonHS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/IteratingHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedHashMap/LinkedHashMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedList/LinkedListImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedList/LinkedListPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedList/LinkedlistMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedList/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/TreeMap/DescendingOrderTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/TreeMap/TreeMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/TreeMap/TreeMapMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RestAssureTesting/BasicAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SubStrings/SubstringsFromAWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwapAndReverse/SwapAndReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ThreadSafety/ThreadSafety2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ThreadSafety/ThreadSafety2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ArrayListFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ArrayListFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ToArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveNumberFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveNumberFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Collections/ArrayList2/ArrayListFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/ArrayList2/ArrayListFromArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Collections/ArrayList2/ToArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/ArrayList2/ToArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_RemoveFromString/RemoveNumberFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code_RemoveFromString/RemoveNumberFromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +97,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Application.CopyOnWriteAL">
-    <configuration name="CopyOnWriteAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList2.CopyOnWriteAL" />
+  <component name="RunManager" selected="Application.SubstringsFromAWord">
+    <configuration name="BasicAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RestAssureTesting.BasicAPI" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayList2.*" />
+          <option name="PATTERN" value="RestAssureTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveEvenFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList2.RemoveEvenFromList" />
+    <configuration name="RemoveNumberFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code_RemoveFromString.RemoveNumberFromString" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayList2.*" />
+          <option name="PATTERN" value="Java_Code_RemoveFromString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RetainAllInAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList2.RetainAllInAL" />
+    <configuration name="ReverseString_ByWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code_ReverseString.ReverseString_ByWord" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayList2.*" />
+          <option name="PATTERN" value="Java_Code_ReverseString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronisedAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList2.SynchronisedAL" />
+    <configuration name="SubstringsFromAWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubStrings.SubstringsFromAWord" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayList2.*" />
+          <option name="PATTERN" value="SubStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList2.ToArray" />
+    <configuration name="SwapAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwapAndReverse.SwapAndReverse" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayList2.*" />
+          <option name="PATTERN" value="SwapAndReverse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,19 +164,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveEvenFromList" />
-      <item itemvalue="Application.RetainAllInAL" />
-      <item itemvalue="Application.ToArray" />
-      <item itemvalue="Application.SynchronisedAL" />
-      <item itemvalue="Application.CopyOnWriteAL" />
+      <item itemvalue="Application.BasicAPI" />
+      <item itemvalue="Application.RemoveNumberFromString" />
+      <item itemvalue="Application.ReverseString_ByWord" />
+      <item itemvalue="Application.SwapAndReverse" />
+      <item itemvalue="Application.SubstringsFromAWord" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CopyOnWriteAL" />
-        <item itemvalue="Application.SynchronisedAL" />
-        <item itemvalue="Application.ToArray" />
-        <item itemvalue="Application.RetainAllInAL" />
-        <item itemvalue="Application.RemoveEvenFromList" />
+        <item itemvalue="Application.SubstringsFromAWord" />
+        <item itemvalue="Application.SwapAndReverse" />
+        <item itemvalue="Application.ReverseString_ByWord" />
+        <item itemvalue="Application.RemoveNumberFromString" />
+        <item itemvalue="Application.BasicAPI" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709764865983</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Collections-Arraylists">
+      <created>1709885732960</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709885732960</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,7 +361,8 @@
     <MESSAGE value="collections and locators" />
     <MESSAGE value="collections and locators and reverse string java code practise" />
     <MESSAGE value="java" />
-    <option name="LAST_COMMIT_MESSAGE" value="java" />
+    <MESSAGE value="Collections-Arraylists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections-Arraylists" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
