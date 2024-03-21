@@ -25,6 +25,7 @@ public class SubstringsFromAWord {
 
 
     public static void main(String[] args){
-      subsetString("Sruthi");
+
+        subsetString("Sruthi");
     }
 }

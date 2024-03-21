@@ -13,7 +13,7 @@ public class IteratingKeyValuePairHM {
             }};
        Iterator<Map.Entry<String,String>> it= hm1.entrySet().iterator();
        while(it.hasNext()){
-          // System.out.println(it.next());
+
            Map.Entry<String,String> entry = it.next();
            System.out.println("Key "+entry.getKey()+" Value "+entry.getValue());
        }

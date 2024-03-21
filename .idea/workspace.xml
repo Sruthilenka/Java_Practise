@@ -4,57 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="Collections-Arraylists">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ArrayListsComparision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/CommonElementsinALs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/RemoveDuplicateFromAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/EnumSet/AddOneSetToOther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/EnumSet/EnumSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/EnumSet/IterateEnumSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/EnumSet/removeES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap/SynchronisedMap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/AdditionalKeyHM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/BasicDeclaration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/CompareByValuesHM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/CompareHM1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/ConcurrentHashMap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/IterateLamdaHM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/IteratingKeyValuePairHM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/IteratingkeysHM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/SingletonMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMaptoArrayList/HashMapToArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/AddingTwoSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/DifferenceHS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/HashSetDeclaration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/HashSetMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/IntersectionOrCommonHS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSet/IteratingHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedHashMap/LinkedHashMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedList/LinkedListImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedList/LinkedListPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedList/LinkedlistMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedList/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/TreeMap/DescendingOrderTreeMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/TreeMap/TreeMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/TreeMap/TreeMapMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RestAssureTesting/BasicAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SubStrings/SubstringsFromAWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwapAndReverse/SwapAndReverse.java" afterDir="false" />
+    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="Collections-Arraylists And java demo and API tetsing basic demo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/AlAscDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/RemoveSecondHighest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountOfOccuranceOfChar/OccuranceOfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountOfOccuranceOfChar/OccuranceOnlyOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountOfOccuranceOfChar/UsingHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountOfOccuranceOfChar/occurancewithoutanyloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/LeftArrayrotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseOnlyCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseTillPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/RightArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ShiftToPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ShiftToPositonDup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSClasses/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSClasses/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSClasses/abs1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSClasses/abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome/Palindrome3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome/PalindromeSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Panagram/Panagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PatternMatches/PatternMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/AnagramPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/ArrayListPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/HashMapPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/PractiseStringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/RemoveFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/SpecialCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/SubStringsofAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/SwapExtremesReverseMiddles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/UpperCaseToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeparatorToNumbers/Separator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ShiftingNumtoAnArray/ShiftNumsToLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ShiftingNumtoAnArray/ShiftNumsToStartArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/RemDupHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/RemDupHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/SortedArrayRemoveDup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stars/StarsBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringReplacementsAllVariants/StringReplaceVariants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringsDemo/AddString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringsDemo/NameShortForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringsDemo/SpecialCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringsDemo/SplCharactersCharClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwapWords/SwapUsingThirdVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwapWords/SwapWithoutThirdVar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11be92755790aa2a5090ac702e6c9f217017d701" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ArrayListFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ArrayListFromArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/ToArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveNumberFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveNumberFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_ExtendingConcept/TestCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Collections/ArrayList2/ArrayListFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/ArrayList2/ArrayListFromArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Collections/ArrayList2/ToArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/ArrayList2/ToArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_RemoveFromString/RemoveNumberFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code_RemoveFromString/RemoveNumberFromString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_ExtendingConcept/TestCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/CompareHM1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/CompareHM1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/IteratingKeyValuePairHM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/IteratingKeyValuePairHM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/SingletonMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/SingletonMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveWordFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveWordFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SubStrings/SubstringsFromAWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SubStrings/SubstringsFromAWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_RemoveFromString/RemoveWordFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code_RemoveFromString/RemoveWordFromString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +102,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Application.SubstringsFromAWord">
-    <configuration name="BasicAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RestAssureTesting.BasicAPI" />
+  <component name="RunManager" selected="Application.CompareHM1">
+    <configuration name="ArrayListPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise1.ArrayListPractise" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssureTesting.*" />
+          <option name="PATTERN" value="Practise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveNumberFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code_RemoveFromString.RemoveNumberFromString" />
+    <configuration name="CompareHM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashMap2.CompareHM1" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Code_RemoveFromString.*" />
+          <option name="PATTERN" value="Collections.HashMap2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString_ByWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code_ReverseString.ReverseString_ByWord" />
+    <configuration name="HashMapPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise1.HashMapPractise" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Code_ReverseString.*" />
+          <option name="PATTERN" value="Practise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubstringsFromAWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubStrings.SubstringsFromAWord" />
+    <configuration name="RemDupHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortedArrayRemoveDup.RemDupHashSet" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SubStrings.*" />
+          <option name="PATTERN" value="SortedArrayRemoveDup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwapAndReverse.SwapAndReverse" />
+    <configuration name="SingletonMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashMap2.SingletonMap" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SwapAndReverse.*" />
+          <option name="PATTERN" value="Collections.HashMap2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +169,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasicAPI" />
-      <item itemvalue="Application.RemoveNumberFromString" />
-      <item itemvalue="Application.ReverseString_ByWord" />
-      <item itemvalue="Application.SwapAndReverse" />
-      <item itemvalue="Application.SubstringsFromAWord" />
+      <item itemvalue="Application.RemDupHashSet" />
+      <item itemvalue="Application.ArrayListPractise" />
+      <item itemvalue="Application.HashMapPractise" />
+      <item itemvalue="Application.SingletonMap" />
+      <item itemvalue="Application.CompareHM1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubstringsFromAWord" />
-        <item itemvalue="Application.SwapAndReverse" />
-        <item itemvalue="Application.ReverseString_ByWord" />
-        <item itemvalue="Application.RemoveNumberFromString" />
-        <item itemvalue="Application.BasicAPI" />
+        <item itemvalue="Application.CompareHM1" />
+        <item itemvalue="Application.SingletonMap" />
+        <item itemvalue="Application.HashMapPractise" />
+        <item itemvalue="Application.RemDupHashSet" />
+        <item itemvalue="Application.ArrayListPractise" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709885732960</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Collections-Arraylists And java demo and API tetsing basic demo">
+      <created>1710312212200</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1710312212200</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,7 +374,8 @@
     <MESSAGE value="collections and locators and reverse string java code practise" />
     <MESSAGE value="java" />
     <MESSAGE value="Collections-Arraylists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections-Arraylists" />
+    <MESSAGE value="Collections-Arraylists And java demo and API tetsing basic demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections-Arraylists And java demo and API tetsing basic demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -396,6 +409,61 @@
           <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
           <line>30</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome1.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/LeftArrayrotation.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/LeftArrayrotation.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/LeftArrayrotation.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/LeftArrayrotation.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -9,6 +9,5 @@ public class SingletonMap {
         System.out.println(map1.get("Tom"));
         System.out.println(map1.keySet());
         System.out.println(map1.values());
-
     }
 }

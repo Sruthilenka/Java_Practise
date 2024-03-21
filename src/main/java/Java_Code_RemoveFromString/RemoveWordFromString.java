@@ -30,8 +30,8 @@ public class RemoveWordFromString {
     }
 
     public static void main(String[] args){
-         removeWord("Hello Sruthi this side!","this");
-         removeWord("Hello World Hello","Hello");
+       //  removeWord("Hello Sruthi this side!","this");
+        // removeWord("Hello World Hello","Hello");
          removewordnoinbuilt("Hello World Hello","Hello");
     }
 

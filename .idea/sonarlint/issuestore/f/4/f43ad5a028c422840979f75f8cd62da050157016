@@ -1,0 +1,9 @@
+
+a
+java:S1192"KDefine a constant instead of duplicating this literal "divpaxinfo" 3 times.(ŒñËã
+w
+java:S1192"aDefine a constant instead of duplicating this literal "input[id*='chk_friendsandfamily'" 3 times.(¾äĞ×
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬ÆœÏ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö³œ÷
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŒñËã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€íóÜşÿÿÿÿ
