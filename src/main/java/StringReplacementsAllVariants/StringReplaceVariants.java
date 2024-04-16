@@ -41,9 +41,9 @@ public class StringReplaceVariants {
     public static void main(String[] args) {
         replace4("Jagrat Automation JagratRepository", "Jagrat", "JAR HUB");
         //Regular Expression with ReplaceAll --> to replace everything before
-        replace4("Jagrat Automation JagratRepository", "(.*)Jagrat(.*)", "JAR HUB");
+       // replace4("Jagrat Automation JagratRepository", "(.*)Jagrat(.*)", "JAR HUB");
 
         //To replace only the first occurance of the substring
-        replace5("Jagrat Automation JagratRepository", "Jagrat", "JAR HUB");
+      //  replace5("Jagrat Automation JagratRepository", "Jagrat", "JAR HUB");
     }
 }

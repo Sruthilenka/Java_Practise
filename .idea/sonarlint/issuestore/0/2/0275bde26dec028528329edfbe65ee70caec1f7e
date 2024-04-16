@@ -1,32 +1,0 @@
-
-t
-java:S2293
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹´Êüÿÿÿÿ
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÖ™ªşÿÿÿÿ
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞÏÂ×
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÒ’Ğ
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ê†øÿÿÿÿ
-t
-java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ºñØøÿÿÿÿ
-t
-java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(øÁèŞÿÿÿÿÿ
-k	java:S117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹´Êüÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÖ™ªşÿÿÿÿ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÏÂ×
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÒ’Ğ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ê†øÿÿÿÿ
-k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ºñØøÿÿÿÿ
-k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÁèŞÿÿÿÿÿ
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½³ñE
-P	java:S125"<This block of commented-out lines of code should be removed.(à•¬
-N	java:S106"9Replace this use of System.out or System.err by a logger.(éı±º
-S	java:S106"9Replace this use of System.out or System.err by a logger.(€Ñ’ëùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀŠËéøÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(è»¼øÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ö±²şÿÿÿÿ
-S	java:S106$"9Replace this use of System.out or System.err by a logger.(â®«¼úÿÿÿÿ

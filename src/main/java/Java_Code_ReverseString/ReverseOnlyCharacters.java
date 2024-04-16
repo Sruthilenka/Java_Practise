@@ -21,12 +21,12 @@ public class ReverseOnlyCharacters {
                 j--;
             }
         }
-      /*  for (int k = 0; k < ch.length; k++) {
+      /* for (int k = 0; k < ch.length; k++) {
             System.out.print(ch[k]);
         }*/
 
-        String output = new String(ch);
-        System.out.println(output);
+       String output = new String(ch);
+     System.out.println(output);
 
     }
 

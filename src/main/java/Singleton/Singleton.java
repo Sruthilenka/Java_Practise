@@ -1,20 +1,23 @@
 package Singleton;
 
-import static com.sun.javafx.image.impl.IntArgb.ToIntArgbPreConv.instance;
 
-public class SingletonImp {
+public class Singleton {
+    //private variable of class type
+    private static Singleton instance;
 
-        private static SingletonImp var;
+    //private Constructor
+    private Singleton() {
 
-        private SingletonImp(){
-
-        };
-public static SingletonImp getInstance(){
-    if(instance== null){
-        instance= new SingletonImp();
     }
-    return instance;
+
+    //public method to generate instance
+    public static Singleton getInstance() {
+        if (instance == null) {
+            instance = new Singleton();
+        }
+        return instance;
+    }
+
+
 }
-
-    }
 

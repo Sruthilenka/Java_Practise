@@ -10,7 +10,7 @@ public class LinkedHashMap1 {
         lm1.put("A", "1");
         lm1.put("B", "2");
         lm1.put("C", "3");
-       // System.out.println(lm1);
+        System.out.println(lm1);
 
         Iterator<Map.Entry<String,String>> it = lm1.entrySet().iterator();
         while(it.hasNext()){

@@ -1,20 +1,0 @@
-
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ôí®ÿÿÿÿÿ
-o
-java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(þç“Ý
-t
-java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÅ£ãùÿÿÿÿ
-k	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÅ£ãùÿÿÿÿ
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½³ñE
-V	java:S125
-"<This block of commented-out lines of code should be removed.(²ñç¹ÿÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(šÆR
-S	java:S106"9Replace this use of System.out or System.err by a logger.(„¸óìýÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.( ¿ûQ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Àî€³
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Àî€³
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(µ²àÓþÿÿÿÿ
-N	java:S106%"9Replace this use of System.out or System.err by a logger.(ÞÒ©Ø
-S	java:S106("9Replace this use of System.out or System.err by a logger.(ÎÚïåýÿÿÿÿ
-N	java:S106)"9Replace this use of System.out or System.err by a logger.(¯˜Ïê

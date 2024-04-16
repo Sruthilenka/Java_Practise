@@ -5,61 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="Collections-Arraylists And java demo and API tetsing basic demo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList2/AlAscDesc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/RemoveSecondHighest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountOfOccuranceOfChar/OccuranceOfIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountOfOccuranceOfChar/OccuranceOnlyOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountOfOccuranceOfChar/UsingHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountOfOccuranceOfChar/occurancewithoutanyloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/LeftArrayrotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseOnlyCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseTillPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/RightArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ShiftToPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ShiftToPositonDup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSClasses/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSClasses/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSClasses/abs1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPSClasses/abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome/Palindrome3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome/PalindromeSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Panagram/Panagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PatternMatches/PatternMatches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/AnagramPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/ArrayListPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/HashMapPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/PractiseStringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/RemoveFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/SpecialCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/SubStringsofAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/SwapExtremesReverseMiddles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise1/UpperCaseToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeparatorToNumbers/Separator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShiftingNumtoAnArray/ShiftNumsToLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShiftingNumtoAnArray/ShiftNumsToStartArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/RemDupHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/RemDupHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/SortedArrayRemoveDup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stars/StarsBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringReplacementsAllVariants/StringReplaceVariants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringsDemo/AddString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringsDemo/NameShortForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringsDemo/SpecialCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringsDemo/SplCharactersCharClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwapWords/SwapUsingThirdVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwapWords/SwapWithoutThirdVar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11be92755790aa2a5090ac702e6c9f217017d701" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fibonacci/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/ProgramsPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/Singleton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/pracdupremove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/002ece95f711d4acf27352f7258d60c8141a3707" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0275bde26dec028528329edfbe65ee70caec1f7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0619eef0dafa37e926711ee78d0de447bf4ddd46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06a4a9229575eba3259b59a160fa0faf9c8dbc14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/1509c86c3c0583be53c7fadde1e0c105e0e6a3b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/349bac3940263414b6d61e6cad095c4e3a00cf5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d11a4aac26df0ff9084cc6aab86e281d67071ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60b3d86d7096bc82e8e759bdd4715456077dcdb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61b8f97069905c3c24c3ec290cd3b5774a6b45c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a083ab6301352e96e1247d467f6b44f80527537" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e4154474a766f7b4abecd25a081a5ab190c99fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a1bcd476974d3fef88285a92a0204501615a991" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bef7ac7e28e2f1b91857cfa15e8b908b14ef7dec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c73ee6b2f176627c242e41256bc7b93daea9dd28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de9c1873cab48bf82fe3201f9f28992cc196127b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e05165ea1c50348b7023a9871b22dcc8658741ee" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/CompareHM1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/CompareHM1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/IteratingKeyValuePairHM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/IteratingKeyValuePairHM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/SingletonMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMap2/SingletonMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveWordFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_RemoveFromString/RemoveWordFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SubStrings/SubstringsFromAWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SubStrings/SubstringsFromAWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code_RemoveFromString/RemoveWordFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code_RemoveFromString/RemoveWordFromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/LinkedHashMap/LinkedHashMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedHashMap/LinkedHashMap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseOnlyCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseOnlyCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practise1/Practiselatest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practise1/Practiselatest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practise1/ScannerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practise1/ScannerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/RemDupHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/RemDupHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringReplacementsAllVariants/StringReplaceVariants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringReplacementsAllVariants/StringReplaceVariants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Collections/HashMap2/RemoveSecondHighest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/HashMap2/RemoveSecondHighest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Collections/LinkedHashMap/LinkedHashMap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/LinkedHashMap/LinkedHashMap1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +78,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Application.CompareHM1">
-    <configuration name="ArrayListPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise1.ArrayListPractise" />
+  <component name="RunManager" selected="Application.OccuranceOnlyOnce">
+    <configuration name="NameShortForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsDemo.NameShortForm" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise1.*" />
+          <option name="PATTERN" value="StringsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,25 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareHM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.HashMap2.CompareHM1" />
+    <configuration name="OccuranceOnlyOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountOfOccuranceOfChar.OccuranceOnlyOnce" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.HashMap2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashMapPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise1.HashMapPractise" />
-      <module name="Java_Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practise1.*" />
+          <option name="PATTERN" value="CountOfOccuranceOfChar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +118,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.HashMap2.SingletonMap" />
+    <configuration name="StringReplaceVariants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringReplacementsAllVariants.StringReplaceVariants" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.HashMap2.*" />
+          <option name="PATTERN" value="StringReplacementsAllVariants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwapAndReverse.SwapAndReverse" />
+      <module name="Java_Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SwapAndReverse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,18 +146,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.RemDupHashSet" />
-      <item itemvalue="Application.ArrayListPractise" />
-      <item itemvalue="Application.HashMapPractise" />
-      <item itemvalue="Application.SingletonMap" />
-      <item itemvalue="Application.CompareHM1" />
+      <item itemvalue="Application.StringReplaceVariants" />
+      <item itemvalue="Application.NameShortForm" />
+      <item itemvalue="Application.SwapAndReverse" />
+      <item itemvalue="Application.OccuranceOnlyOnce" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompareHM1" />
-        <item itemvalue="Application.SingletonMap" />
-        <item itemvalue="Application.HashMapPractise" />
+        <item itemvalue="Application.OccuranceOnlyOnce" />
+        <item itemvalue="Application.SwapAndReverse" />
+        <item itemvalue="Application.NameShortForm" />
+        <item itemvalue="Application.StringReplaceVariants" />
         <item itemvalue="Application.RemDupHashSet" />
-        <item itemvalue="Application.ArrayListPractise" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710312212200</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Collections-Arraylists And java demo and API tetsing basic demo">
+      <created>1710998759338</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1710998759338</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
