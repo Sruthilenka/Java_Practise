@@ -4,38 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="Collections-Arraylists And java demo and API tetsing basic demo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fibonacci/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/ProgramsPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/Singleton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/pracdupremove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/002ece95f711d4acf27352f7258d60c8141a3707" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0275bde26dec028528329edfbe65ee70caec1f7e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0619eef0dafa37e926711ee78d0de447bf4ddd46" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06a4a9229575eba3259b59a160fa0faf9c8dbc14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/1509c86c3c0583be53c7fadde1e0c105e0e6a3b3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/349bac3940263414b6d61e6cad095c4e3a00cf5f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d11a4aac26df0ff9084cc6aab86e281d67071ac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60b3d86d7096bc82e8e759bdd4715456077dcdb3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61b8f97069905c3c24c3ec290cd3b5774a6b45c0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a083ab6301352e96e1247d467f6b44f80527537" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e4154474a766f7b4abecd25a081a5ab190c99fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a1bcd476974d3fef88285a92a0204501615a991" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bef7ac7e28e2f1b91857cfa15e8b908b14ef7dec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c73ee6b2f176627c242e41256bc7b93daea9dd28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de9c1873cab48bf82fe3201f9f28992cc196127b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e05165ea1c50348b7023a9871b22dcc8658741ee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/ArrayInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/COmparableAndComparator/CheckComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/COmparableAndComparator/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/BouquetUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ToString/TString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/LinkedHashMap/LinkedHashMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/LinkedHashMap/LinkedHashMap1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseOnlyCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/ReverseOnlyCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practise1/Practiselatest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practise1/Practiselatest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practise1/ScannerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practise1/ScannerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/RemDupHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/RemDupHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringReplacementsAllVariants/StringReplaceVariants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringReplacementsAllVariants/StringReplaceVariants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Collections/HashMap2/RemoveSecondHighest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/HashMap2/RemoveSecondHighest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Collections/LinkedHashMap/LinkedHashMap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/LinkedHashMap/LinkedHashMap1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExceptionsDemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExceptionsDemo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SeleniumAddToCartProject/AddToCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeleniumAddToCartProject/AddToCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SeleniumDemo/DynamicDropDowns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeleniumDemo/DynamicDropDowns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/pracdupremove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/pracdupremove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringsDemo/NameShortForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringsDemo/NameShortForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Java_Practise-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Java_Practise-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Palindrome/Plaindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Palindrome/Plaindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Palindrome/Plaindrome1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Palindrome/Plaindrome1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumAddToCartProject/AddToCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumAddToCartProject/AddToCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumDemo/DynamicDropDowns.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumDemo/DynamicDropDowns.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SortedArrayRemoveDup/pracdupremove.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SortedArrayRemoveDup/pracdupremove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StringsDemo/NameShortForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StringsDemo/NameShortForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,32 +48,99 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2S6uQDaKSKfCCehtEEMwEWPNweB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sruthilenka&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://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@github.com/Sruthilenka/Selenium_practise.git&quot;,
+    &quot;accountId&quot;: &quot;1d1cc8f7-e148-4b7e-9279-675d6ca62848&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2gYxH8GFyWtQaMy8hRovPh71rt2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-  </component>
-  <component name="RunManager" selected="Application.OccuranceOnlyOnce">
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddToCart.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicAPI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bouquet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BouquetUtils.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckComparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DescendingOrderTreeMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicDropDowns.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NameShortForm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pizza.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Plaindrome1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemDupHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemDupHashSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapUsingThirdVar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VirtualCapacity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pracdupremove.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sruthilenka/Desktop/Java_Practise/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.CheckComparable">
+    <configuration name="CheckComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COmparableAndComparator.CheckComparable" />
+      <module name="Java_Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="COmparableAndComparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DescendingOrderTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.TreeMap.DescendingOrderTreeMap" />
+      <module name="Java_Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.TreeMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicDropDowns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumDemo.DynamicDropDowns" />
+      <module name="Java_Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NameShortForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringsDemo.NameShortForm" />
       <module name="Java_Practise" />
@@ -92,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OccuranceOnlyOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountOfOccuranceOfChar.OccuranceOnlyOnce" />
+    <configuration name="TString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToString.TString" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CountOfOccuranceOfChar.*" />
+          <option name="PATTERN" value="ToString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,350 +167,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemDupHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortedArrayRemoveDup.RemDupHashSet" />
-      <module name="Java_Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SortedArrayRemoveDup.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringReplaceVariants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringReplacementsAllVariants.StringReplaceVariants" />
-      <module name="Java_Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringReplacementsAllVariants.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwapAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwapAndReverse.SwapAndReverse" />
-      <module name="Java_Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwapAndReverse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.RemDupHashSet" />
-      <item itemvalue="Application.StringReplaceVariants" />
-      <item itemvalue="Application.NameShortForm" />
-      <item itemvalue="Application.SwapAndReverse" />
-      <item itemvalue="Application.OccuranceOnlyOnce" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OccuranceOnlyOnce" />
-        <item itemvalue="Application.SwapAndReverse" />
+        <item itemvalue="Application.CheckComparable" />
+        <item itemvalue="Application.TString" />
         <item itemvalue="Application.NameShortForm" />
-        <item itemvalue="Application.StringReplaceVariants" />
-        <item itemvalue="Application.RemDupHashSet" />
+        <item itemvalue="Application.DynamicDropDowns" />
+        <item itemvalue="Application.DescendingOrderTreeMap" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ddd87062-afab-4b5c-a70d-5dd296f9f8c7" name="Changes" comment="" />
-      <created>1688479334629</created>
+      <changelist id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="" />
+      <created>1715888222069</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1688479334629</updated>
+      <updated>1715888222069</updated>
     </task>
-    <task id="LOCAL-00001" summary="My first commit">
-      <created>1688747785858</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1688747785860</updated>
-    </task>
-    <task id="LOCAL-00002" summary="All the beginner java session practise files">
-      <created>1688747869550</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1688747869550</updated>
-    </task>
-    <task id="LOCAL-00003" summary="java_Practise files">
-      <created>1688880011040</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1688880011040</updated>
-    </task>
-    <task id="LOCAL-00004" summary="java_Practise files">
-      <created>1688896250659</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1688896250659</updated>
-    </task>
-    <task id="LOCAL-00005" summary="java_Practise files">
-      <created>1688972299209</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1688972299209</updated>
-    </task>
-    <task id="LOCAL-00006" summary="java_Practise files">
-      <created>1689503119513</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1689503119513</updated>
-    </task>
-    <task id="LOCAL-00007" summary="java_Practise files">
-      <created>1689505812442</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1689505812442</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Segregating part 1">
-      <created>1691403776503</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1691403776503</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Segregating part 2">
-      <created>1691404404531</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1691404404531</updated>
-    </task>
-    <task id="LOCAL-00010" summary="ArrayLists part 1">
-      <created>1691469081843</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1691469081843</updated>
-    </task>
-    <task id="LOCAL-00011" summary="ArrayLists part 1">
-      <created>1691469110125</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1691469110125</updated>
-    </task>
-    <task id="LOCAL-00012" summary="ArrayLists">
-      <created>1691856824449</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1691856824449</updated>
-    </task>
-    <task id="LOCAL-00013" summary="ArrayLists and hasp map basics">
-      <created>1691995469650</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1691995469650</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Hash Map">
-      <created>1692028288856</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1692028288856</updated>
-    </task>
-    <task id="LOCAL-00015" summary="collections and locators">
-      <created>1693282833523</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1693282833523</updated>
-    </task>
-    <task id="LOCAL-00016" summary="collections and locators and reverse string java code practise">
-      <created>1709305214992</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1709305214993</updated>
-    </task>
-    <task id="LOCAL-00017" summary="java">
-      <created>1709441325461</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1709441325461</updated>
-    </task>
-    <task id="LOCAL-00018" summary="java">
-      <created>1709764865982</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1709764865983</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Collections-Arraylists">
-      <created>1709885732960</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1709885732960</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Collections-Arraylists And java demo and API tetsing basic demo">
-      <created>1710312212200</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1710312212200</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Collections-Arraylists And java demo and API tetsing basic demo">
-      <created>1710998759338</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1710998759338</updated>
-    </task>
-    <option name="localTasksCounter" value="22" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="My first commit" />
-    <MESSAGE value="All the beginner java session practise files" />
-    <MESSAGE value="java_Practise files" />
-    <MESSAGE value="Segregating part 1" />
-    <MESSAGE value="Segregating part 2" />
-    <MESSAGE value="ArrayLists part 1" />
-    <MESSAGE value="ArrayLists" />
-    <MESSAGE value="ArrayLists and hasp map basics" />
-    <MESSAGE value="Hash Map" />
-    <MESSAGE value="collections and locators" />
-    <MESSAGE value="collections and locators and reverse string java code practise" />
-    <MESSAGE value="java" />
-    <MESSAGE value="Collections-Arraylists" />
-    <MESSAGE value="Collections-Arraylists And java demo and API tetsing basic demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections-Arraylists And java demo and API tetsing basic demo" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/SeleniumDemo/ChildWindows.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome1.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome1.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Palindrome/Plaindrome1.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/LeftArrayrotation.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/LeftArrayrotation.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/LeftArrayrotation.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Java_Code_ReverseString/LeftArrayrotation.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

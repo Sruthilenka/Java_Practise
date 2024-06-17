@@ -30,6 +30,7 @@ public class Plaindrome {
 
 
     public static void main(String[] args){
-     compareStrings("Nitin");
+
+        compareStrings("Nitin");
     }
 }

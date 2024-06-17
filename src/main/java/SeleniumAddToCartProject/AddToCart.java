@@ -10,7 +10,7 @@ import java.util.List;
 
 public class AddToCart {
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", "/Users/slenka/Documents/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/sruthilenka/Documents/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.rahulshettyacademy.com/seleniumPractise/#/");
       /*  List<WebElement> products = driver.findElements(By.cssSelector("h4.product-name"));

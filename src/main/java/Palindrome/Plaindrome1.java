@@ -7,6 +7,7 @@ public class Plaindrome1 {
 
     public static void checkPal(String s){
         int i=0,j=s.length()-1;
+        System.out.println("s length "+s.length());
         Boolean b = true;
         s=s.toLowerCase();
         while(i<j){
