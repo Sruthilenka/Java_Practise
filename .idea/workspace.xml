@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/ArraysInsertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/DuplicateCheckArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListImplementation/DeleteNodeLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListImplementation/InsertNodeAtFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListImplementation/LinkedlistImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListImplementation/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListImplementation/TraversingLinkedList.java" afterDir="false" />
+    <list default="true" id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="Leet Code and Linked List">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/LongSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/SlidingWindow/LongestSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/SlidingWindow/LongestSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/SlidingWindow/MaxAvgOfContArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListImplementation/linkedListsMerge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetcodePractise/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +63,10 @@
     "Application.Fibonacci.executor": "Run",
     "Application.InsertNodeAtFirst.executor": "Run",
     "Application.LinkedlistImp.executor": "Run",
+    "Application.LongestSubSequence.executor": "Run",
+    "Application.LongestSubString.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxAvgOfContArray.executor": "Run",
     "Application.NameShortForm.executor": "Run",
     "Application.Pizza.executor": "Run",
     "Application.Plaindrome1.executor": "Run",
@@ -78,7 +78,9 @@
     "Application.TraversingLinkedList.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.VirtualCapacity.executor": "Run",
+    "Application.demo.executor": "Run",
     "Application.demo1.executor": "Run",
+    "Application.linkedListsMerge.executor": "Run",
     "Application.pracdupremove.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -90,9 +92,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DeleteNodeLL">
-    <configuration name="ArraysInsertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.ArraysInsertion" />
+  <component name="RunManager" selected="Application.LongSS">
+    <configuration name="LongSS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.LongSS" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteNodeLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListImplementation.DeleteNodeLL" />
+    <configuration name="LongestSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.SlidingWindow.LongestSubSequence" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedListImplementation.*" />
+          <option name="PATTERN" value="LeetcodePractise.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertNodeAtFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListImplementation.InsertNodeAtFirst" />
+    <configuration name="LongestSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.SlidingWindow.LongestSubString" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedListImplementation.*" />
+          <option name="PATTERN" value="LeetcodePractise.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedlistImp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListImplementation.LinkedlistImp" />
+    <configuration name="MaxAvgOfContArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.SlidingWindow.MaxAvgOfContArray" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedListImplementation.*" />
+          <option name="PATTERN" value="LeetcodePractise.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TraversingLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListImplementation.TraversingLinkedList" />
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.SlidingWindow.demo" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedListImplementation.*" />
+          <option name="PATTERN" value="LeetcodePractise.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeleteNodeLL" />
-        <item itemvalue="Application.InsertNodeAtFirst" />
-        <item itemvalue="Application.ArraysInsertion" />
-        <item itemvalue="Application.TraversingLinkedList" />
-        <item itemvalue="Application.LinkedlistImp" />
+        <item itemvalue="Application.LongSS" />
+        <item itemvalue="Application.LongestSubString" />
+        <item itemvalue="Application.LongestSubSequence" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.MaxAvgOfContArray" />
       </list>
     </recent_temporary>
   </component>
@@ -191,11 +193,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718635923159</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Leet Code and Linked List">
+      <option name="closed" value="true" />
+      <created>1718690125265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718690125265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Leet Code and Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet Code and Linked List" />
   </component>
 </project>
