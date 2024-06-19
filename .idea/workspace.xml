@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="Leet Code and Linked List">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/LongSS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/SlidingWindow/LongestSubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/SlidingWindow/LongestSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/SlidingWindow/MaxAvgOfContArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListImplementation/linkedListsMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/ReverseAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/ValidParenthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +60,7 @@
     "Application.Fibonacci.executor": "Run",
     "Application.InsertNodeAtFirst.executor": "Run",
     "Application.LinkedlistImp.executor": "Run",
+    "Application.LongSS.executor": "Run",
     "Application.LongestSubSequence.executor": "Run",
     "Application.LongestSubString.executor": "Run",
     "Application.Main.executor": "Run",
@@ -72,11 +70,13 @@
     "Application.Plaindrome1.executor": "Run",
     "Application.RemDupHashMap.executor": "Run",
     "Application.RemDupHashSet.executor": "Run",
+    "Application.ReverseAString.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
     "Application.SwapUsingThirdVar.executor": "Run",
     "Application.TString.executor": "Run",
     "Application.TraversingLinkedList.executor": "Run",
     "Application.TwoSum.executor": "Run",
+    "Application.ValidParenthesis.executor": "Run",
     "Application.VirtualCapacity.executor": "Run",
     "Application.demo.executor": "Run",
     "Application.demo1.executor": "Run",
@@ -92,7 +92,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LongSS">
+  <component name="RunManager" selected="Application.ValidParenthesis">
     <configuration name="LongSS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetcodePractise.LongSS" />
       <module name="Java_Practise" />
@@ -132,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAvgOfContArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.SlidingWindow.MaxAvgOfContArray" />
+    <configuration name="ReverseAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks.ReverseAString" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetcodePractise.SlidingWindow.*" />
+          <option name="PATTERN" value="Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.SlidingWindow.demo" />
+    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks.ValidParenthesis" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetcodePractise.SlidingWindow.*" />
+          <option name="PATTERN" value="Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidParenthesis" />
+        <item itemvalue="Application.ReverseAString" />
         <item itemvalue="Application.LongSS" />
         <item itemvalue="Application.LongestSubString" />
         <item itemvalue="Application.LongestSubSequence" />
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.MaxAvgOfContArray" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718690125265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Leet Code and Linked List">
+      <option name="closed" value="true" />
+      <created>1718701962372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718701962372</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
