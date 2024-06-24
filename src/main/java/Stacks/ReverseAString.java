@@ -12,7 +12,7 @@ public class ReverseAString {
         }
 
         System.out.println("Reverse String:");
-        while(!stack1.empty()){
+        while(!stack1.isEmpty()){
             System.out.print(stack1.pop());
         }
     }

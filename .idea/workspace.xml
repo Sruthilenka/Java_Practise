@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="Leet Code and Linked List">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/ReverseAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/ValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/AllSubSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/AllSubStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/BitWiseOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/HighIndexMountainPeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/MinOfRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PatternMatches/StarPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stacks/ReverseAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stacks/ReverseAString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +52,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AddToCart.executor": "Run",
+    "Application.AllSubStrings.executor": "Run",
     "Application.Anagram.executor": "Run",
     "Application.ArraysInsertion.executor": "Run",
     "Application.BasicAPI.executor": "Run",
+    "Application.BitWiseOperators.executor": "Run",
     "Application.Bouquet.executor": "Run",
     "Application.BouquetUtils.executor": "Run",
     "Application.CheckComparable.executor": "Run",
@@ -58,6 +65,7 @@
     "Application.DuplicateCheckArray.executor": "Run",
     "Application.DynamicDropDowns.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.HighIndexMountainPeek.executor": "Run",
     "Application.InsertNodeAtFirst.executor": "Run",
     "Application.LinkedlistImp.executor": "Run",
     "Application.LongSS.executor": "Run",
@@ -65,6 +73,7 @@
     "Application.LongestSubString.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxAvgOfContArray.executor": "Run",
+    "Application.MinOfRotatedArray.executor": "Run",
     "Application.NameShortForm.executor": "Run",
     "Application.Pizza.executor": "Run",
     "Application.Plaindrome1.executor": "Run",
@@ -72,6 +81,7 @@
     "Application.RemDupHashSet.executor": "Run",
     "Application.ReverseAString.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
+    "Application.StarPattern.executor": "Run",
     "Application.SwapUsingThirdVar.executor": "Run",
     "Application.TString.executor": "Run",
     "Application.TraversingLinkedList.executor": "Run",
@@ -92,9 +102,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ValidParenthesis">
-    <configuration name="LongSS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.LongSS" />
+  <component name="RunManager" selected="Application.MinOfRotatedArray">
+    <configuration name="AllSubStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.AllSubStrings" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
@@ -106,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.SlidingWindow.LongestSubSequence" />
+    <configuration name="BitWiseOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.BitWiseOperators" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetcodePractise.SlidingWindow.*" />
+          <option name="PATTERN" value="LeetcodePractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.SlidingWindow.LongestSubString" />
+    <configuration name="HighIndexMountainPeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.HighIndexMountainPeek" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetcodePractise.SlidingWindow.*" />
+          <option name="PATTERN" value="LeetcodePractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stacks.ReverseAString" />
+    <configuration name="MinOfRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.MinOfRotatedArray" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stacks.*" />
+          <option name="PATTERN" value="LeetcodePractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stacks.ValidParenthesis" />
+    <configuration name="StarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternMatches.StarPattern" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stacks.*" />
+          <option name="PATTERN" value="PatternMatches.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidParenthesis" />
-        <item itemvalue="Application.ReverseAString" />
-        <item itemvalue="Application.LongSS" />
-        <item itemvalue="Application.LongestSubString" />
-        <item itemvalue="Application.LongestSubSequence" />
+        <item itemvalue="Application.MinOfRotatedArray" />
+        <item itemvalue="Application.HighIndexMountainPeek" />
+        <item itemvalue="Application.StarPattern" />
+        <item itemvalue="Application.AllSubStrings" />
+        <item itemvalue="Application.BitWiseOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -209,12 +219,35 @@
       <option name="project" value="LOCAL" />
       <updated>1718701962372</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Leet Code and Linked List">
+      <option name="closed" value="true" />
+      <created>1718797236550</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718797236550</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="Leet Code and Linked List" />
     <option name="LAST_COMMIT_MESSAGE" value="Leet Code and Linked List" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetcodePractise/HighIndexMountainPeek.java</url>
+          <line>26</line>
+          <properties class="LeetcodePractise.HighIndexMountainPeek" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
