@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="Leet Code and Linked List">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/AllSubSequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/AllSubStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/BitWiseOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/HighIndexMountainPeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/MinOfRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PatternMatches/StarPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stacks/ReverseAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stacks/ReverseAString.java" afterDir="false" />
-    </list>
+    <list default="true" id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="Leet Code and Linked List" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,59 +40,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AddToCart.executor": "Run",
-    "Application.AllSubStrings.executor": "Run",
-    "Application.Anagram.executor": "Run",
-    "Application.ArraysInsertion.executor": "Run",
-    "Application.BasicAPI.executor": "Run",
-    "Application.BitWiseOperators.executor": "Run",
-    "Application.Bouquet.executor": "Run",
-    "Application.BouquetUtils.executor": "Run",
-    "Application.CheckComparable.executor": "Run",
-    "Application.DeleteNodeLL.executor": "Run",
-    "Application.DescendingOrderTreeMap.executor": "Run",
-    "Application.DuplicateCheckArray.executor": "Run",
-    "Application.DynamicDropDowns.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.HighIndexMountainPeek.executor": "Run",
-    "Application.InsertNodeAtFirst.executor": "Run",
-    "Application.LinkedlistImp.executor": "Run",
-    "Application.LongSS.executor": "Run",
-    "Application.LongestSubSequence.executor": "Run",
-    "Application.LongestSubString.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxAvgOfContArray.executor": "Run",
-    "Application.MinOfRotatedArray.executor": "Run",
-    "Application.NameShortForm.executor": "Run",
-    "Application.Pizza.executor": "Run",
-    "Application.Plaindrome1.executor": "Run",
-    "Application.RemDupHashMap.executor": "Run",
-    "Application.RemDupHashSet.executor": "Run",
-    "Application.ReverseAString.executor": "Run",
-    "Application.ReverseLinkedList.executor": "Run",
-    "Application.StarPattern.executor": "Run",
-    "Application.SwapUsingThirdVar.executor": "Run",
-    "Application.TString.executor": "Run",
-    "Application.TraversingLinkedList.executor": "Run",
-    "Application.TwoSum.executor": "Run",
-    "Application.ValidParenthesis.executor": "Run",
-    "Application.VirtualCapacity.executor": "Run",
-    "Application.demo.executor": "Run",
-    "Application.demo1.executor": "Run",
-    "Application.linkedListsMerge.executor": "Run",
-    "Application.pracdupremove.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/sruthilenka/Desktop/Java_Practise/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddToCart.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllSubStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysInsertion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicAPI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitWiseOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bouquet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BouquetUtils.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckComparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeleteNodeLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DescendingOrderTreeMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateCheckArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicDropDowns.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HighIndexMountainPeek.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertNodeAtFirst.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedlistImp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongSS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxAvgOfContArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinOfRotatedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NameShortForm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pizza.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Plaindrome1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemDupHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemDupHashSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StarPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapUsingThirdVar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TraversingLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidParenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VirtualCapacity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linkedListsMerge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pracdupremove.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sruthilenka/Desktop/Java_Practise/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.MinOfRotatedArray">
     <configuration name="AllSubStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetcodePractise.AllSubStrings" />
@@ -227,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718797236550</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Leet Code and Linked List">
+      <option name="closed" value="true" />
+      <created>1719207763346</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719207763347</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
