@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="Leet Code and Linked List">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetcodePractise/SlidingWindow/LongestSubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/SlidingWindow/LongestSubSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetcodePractise/SlidingWindow/LongestSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/SlidingWindow/LongestSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome/PalindromeSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Palindrome/PalindromeSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/SortedArrayRemoveDup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortedArrayRemoveDup/SortedArrayRemoveDup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SwapWords/SwapWithoutThirdVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwapWords/SwapWithoutThirdVar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +72,7 @@
     "Application.MaxAvgOfContArray.executor": "Run",
     "Application.MinOfRotatedArray.executor": "Run",
     "Application.NameShortForm.executor": "Run",
+    "Application.PalindromeSubString.executor": "Run",
     "Application.Pizza.executor": "Run",
     "Application.Plaindrome1.executor": "Run",
     "Application.RemDupHashMap.executor": "Run",
@@ -78,6 +81,7 @@
     "Application.ReverseLinkedList.executor": "Run",
     "Application.ReverseOnlyCharacters.executor": "Run",
     "Application.ShiftToPositonDup.executor": "Run",
+    "Application.SortedArrayRemoveDup.executor": "Run",
     "Application.StarPattern.executor": "Run",
     "Application.SwapUsingThirdVar.executor": "Run",
     "Application.TString.executor": "Run",
@@ -99,7 +103,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ShiftToPositonDup">
+  <component name="RunManager" selected="Application.TString">
     <configuration name="HighIndexMountainPeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetcodePractise.HighIndexMountainPeek" />
       <module name="Java_Practise" />
@@ -113,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionsDemo.Main" />
+    <configuration name="MaxAvgOfContArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.SlidingWindow.MaxAvgOfContArray" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionsDemo.*" />
+          <option name="PATTERN" value="LeetcodePractise.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinOfRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodePractise.MinOfRotatedArray" />
+    <configuration name="PalindromeSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome.PalindromeSubString" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetcodePractise.*" />
+          <option name="PATTERN" value="Palindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseOnlyCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code_ReverseString.ReverseOnlyCharacters" />
+    <configuration name="SortedArrayRemoveDup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortedArrayRemoveDup.SortedArrayRemoveDup" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Code_ReverseString.*" />
+          <option name="PATTERN" value="SortedArrayRemoveDup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShiftToPositonDup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code_ReverseString.ShiftToPositonDup" />
+    <configuration name="TString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToString.TString" />
       <module name="Java_Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Code_ReverseString.*" />
+          <option name="PATTERN" value="ToString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShiftToPositonDup" />
-        <item itemvalue="Application.ReverseOnlyCharacters" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MinOfRotatedArray" />
+        <item itemvalue="Application.TString" />
+        <item itemvalue="Application.SortedArrayRemoveDup" />
+        <item itemvalue="Application.PalindromeSubString" />
         <item itemvalue="Application.HighIndexMountainPeek" />
+        <item itemvalue="Application.MaxAvgOfContArray" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719207887235</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Leet Code and Linked List">
+      <option name="closed" value="true" />
+      <created>1719288787388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719288787388</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

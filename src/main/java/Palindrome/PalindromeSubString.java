@@ -8,8 +8,8 @@ public class PalindromeSubString {
         s=s.toLowerCase();
         int len=s.length();
         for(int i=0;i<len;i++){
-            for (int j=i;j<len;j++){
-                String p = s.substring(i,j+1);
+            for (int j=i;j<len;j++){ //j=i+1
+                String p = s.substring(i,j+1); //(i,j)
                if(chkpal(p)){
                    System.out.println(p);
                }

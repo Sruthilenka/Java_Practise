@@ -4,7 +4,7 @@ public class SortedArrayRemoveDup {
     public static void removeDup(int[] arr, int n) {
         int[] temp = new int[n];
         int j = 0;
-        for(int i=0;i<arr.length;i++){
+        for(int i=0;i<arr.length-1;i++){
             if(arr[i]!=arr[i+1]){
                 temp[j]=arr[i];
                 j++;

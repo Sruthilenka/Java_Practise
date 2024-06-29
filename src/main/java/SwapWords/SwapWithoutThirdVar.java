@@ -12,6 +12,11 @@ public class SwapWithoutThirdVar {
         s1=s1.substring(s2.length());
         System.out.println(s1);
         System.out.println(s2);
+
+        /*   // Swap without using a third variable
+        a = a + b;
+        b = a - b;
+        a = a - b;*/
     }
 
     public static void main(String[] args){
