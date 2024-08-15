@@ -11,6 +11,7 @@ public class SubstringsFromAWord {
 
             for (int j = i; j < n; j++) {
                 String p = s.substring(i, j + 1);
+             //   System.out.println(p);
                 arr[temp] = p;
                 temp++;
             }

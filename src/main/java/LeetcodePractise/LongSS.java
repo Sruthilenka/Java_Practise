@@ -19,6 +19,7 @@ public class LongSS {
             if(!map1.containsKey(ch[i])){
                 map1.put(ch[i],i);
             }else{
+               // map1.put(ch[i],1);
                 map1.clear();
             }
             if(map1.size()>longestSubStringlen){
