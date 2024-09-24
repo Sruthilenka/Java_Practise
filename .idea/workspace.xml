@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="Programming Questions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factorial/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fibonacci/FibonacciRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CountOfOccuranceOfChar/UsingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CountOfOccuranceOfChar/UsingHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetcodePractise/LongSS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/LongSS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetcodePractise/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetcodePractise/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SubStrings/SubstringsFromAWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SubStrings/SubstringsFromAWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CountOfOccuranceOfChar/UsingHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CountOfOccuranceOfChar/UsingHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SubStrings/SubstringsFromAWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SubStrings/SubstringsFromAWord.class" afterDir="false" />
-    </list>
+    <list default="true" id="f13eb66b-e3f2-4930-a081-1572e56a54c9" name="Changes" comment="Programming Questions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
